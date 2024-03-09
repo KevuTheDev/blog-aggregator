@@ -1,2 +1,4 @@
 blog-aggregator
 *.exe
+
+.env
